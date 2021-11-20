@@ -1,0 +1,85 @@
+{
+  "question": [
+    "Q1. Who developed Python Programming Language?",
+    "Q2. Which type of Programming does Python support?",
+    "Q3. Is Python case sensitive when dealing with identifiers?",
+    "Q4. Which of the following is the correct extension of the Python file?",
+    "Q5. Is Python code compiled or interpreted?",
+    "Q6. Which  is the truncation division operator in Python?",
+    "Q7. All keywords in Python are in _______",
+    "Q8.Which one of the following is not a keyword in Python language?",
+    "Q9. Which functions is a built-in function in python?",
+    "Q10. Which keyword is used for function in Python language?"
+  ],
+  "answer": [
+    3,
+    4,
+    1,
+    3,
+    2,
+    2,
+    4,
+    2,
+    2,
+    2
+  ],
+  "options": [
+
+    ["Wick van Rossum",
+      "Rasmus Lerdorf",
+      "Guido van Rossum",
+      "Niene Stom"
+    ],
+    ["object-oriented programming",
+      "structured programming",
+      "functional programming",
+      "all of the mentioned"
+    ],
+    ["no",
+      "yes",
+      "machine dependent",
+      "none of the mentioned"
+    ],
+    [".python",
+      ".pl",
+      ".py",
+      ".p"
+    ],
+    [
+      "Python code is both compiled and interpreted",
+      "Python code is neither compiled nor interpreted",
+      "Python code is only compiled",
+      "Python code is only interpreted"
+    ],
+    [
+      "|",
+      "//",
+      "/",
+      "%"
+    ],
+    [
+      "Capitalized",
+      "lower case",
+      "UPPER CASE",
+      "None of the mentioned"
+    ],
+    [
+      "pass",
+      "eval",
+      "assert",
+      "nonlocal"
+    ],
+    [
+      "factorial()",
+      "print()",
+      "seed()",
+      "sqrt()"
+    ],
+    [
+      "Function",
+      "Def",
+      "Fun",
+      "Define"
+    ]
+  ]
+}
